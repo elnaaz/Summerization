@@ -1,0 +1,13 @@
+1	gay rights in brazil	1	13	4
+2	eintsein star		3	36	11
+3	Libya:	 rebels		3	27	8
+4	pregnency		1	17	5
+5	royal weds		1	13	4
+6	General Motors		1	10	3
+7	al pacino		1	10	3
+8	obama			1	37	9
+9	georgia eradication	1	39	11
+10	elephants		4	43	12	
+11	hack			4	37	10	
+12	actress dies		1	12	4	
+13	mccartney marry		1	7	2

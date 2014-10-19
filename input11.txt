@@ -1,0 +1,37 @@
+<h1>Hacker group Anonymous denies Sony attack</h1>
+<h2>Online vigilante group Anonymous has denied being behind an attack that led to the theft of personal data from around 77 million PlayStation users.</h2>
+The secretive "hacker collective" had earlier been singled-out by Sony as the possible guilty party.
+But a posting on Anonymous' blog said: "Let's be clear, we are legion, but it wasn't us. You are incompetent Sony."
+The electronics giant has offered compensation to users who suffer fraud as a result of the theft.
+Earlier this week, Sony sent a letter to the US Congress accusing Anonymous of being involved in the attack.
+"Sony has been the victim of a very carefully planned, very professional, highly sophisticated criminal cyber attack," said the letter, signed by Sony America boss Kazuo Hirai.
+He said that Sony had found a file planted on its network labelled "Anonymous" and bearing the group's slogan, "We are legion".
+But Anonymous said that it had been framed by online thieves to throw law enforcement off track.
+The group, which made headlines in December 2010 after it used software freely available over the internet to temporarily bring down the sites of MasterCard and Visa, said that its members were not credit card thieves.
+"Whoever broke into Sony's servers to steal the credit card info and left a document blaming Anonymous clearly wanted Anonymous to be blamed for the most significant digital theft in history," the statement read.
+<h2>Revenge attack </h2>
+According to Sony, the group targeted the company and facilitated the hacking in retaliation for the electronics giant's recent legal action against George Hotz.
+The US-based hacker was accused of breaking copyright laws by devising a way to change the operating system on Sony PlayStations.
+The case was eventually settled after Mr Hotz agreed not to repeat such behaviour in future.
+Sony claimed that the massive data theft also coincided with a distributed denial-of-service (DDoS) attack on its website by Anonymous.
+Denial-of-service attacks take servers down by overwhelming them with traffic.
+But Anonymous denies all responsibility for allowing access to online gamers' data, including millions of credit card numbers.
+"No one who is actually associated with our movement would do something that would prompt a massive law enforcement response," said the group's statement.
+"On the other hand, a group of standard online thieves would have every reason to frame Anonymous in order to put law enforcement off the track."
+<h2>Apologies and compensation</h2>
+Meanwhile, Sony's CEO Sir Howard Stringer has apologised for the first time to all those affected by the security breach.
+In a blog post on the PlayStation website, he wrote that the company was working on heightening security measures to "protect your information better than ever".
+He also offered compensation to US PlayStation Network and Qriocity users in the form of a year-long free enrolment in an identity protection programme.
+The programme includes a $1m (£608,000) identity theft insurance policy for each user, should they become victims of any future cyber-attacks.
+In a bid to reassure Sony's customers and regain their trust, Mr Stringer added that "to date, there is no confirmed evidence any credit card or personal information has been misused, and we continue to monitor the situation closely."
+Many PlayStation Network users have been upset about the company taking two days after discovering the theft before contacting law enforcement and almost a week to inform the people affected by the breach, after it was first discovered on 20 April. 
+After publishing its statement regarding Sony, Anonymous also issued a warning to entertainment giant Viacom.
+<h2>Targeting Viacom</h2>
+The group said that because of Viacom, "thousands of people have undergone the unfortunate experience of receiving falsely-claimed copyright infringements".
+Viacom is known for taking aggressive legal action to get its content removed from video sharing websites.
+In 2007, the company attempted to sue YouTube for $1bn (£608m).
+As part of its counter-action, YouTube's parent company Google accused Viacom of uploading some videos itself and manipulating them to look like amateur copies.
+The case against YouTube was eventually thrown out.
+In its statement, Anonymous wrote: "Anonymous demands from Viacom a public press release to admit and apologise for the fraud and crimes that they have committed.
+"Anonymous also demands that Viacom allows everyone throughout the internet full rights to be able to express themselves.
+"Lastly, we, the citizens of the world, demand that Viacom stops their attempts to gather personally identifying information such as IPs, which are of no relevance to them."
